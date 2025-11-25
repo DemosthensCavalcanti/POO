@@ -35,4 +35,4 @@ Manter o código organizado e documentado enquanto pratico:
 
 ## Autor
 
-Demosthens – estudante de Ciência da Computação (UFPB).
+Demosthens Cavalcanti – estudante de Ciência da Computação (UFPB).
